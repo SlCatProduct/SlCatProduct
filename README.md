@@ -1,20 +1,20 @@
 <!--
   SL CAT VPN DEVELOPER - Advanced GitHub Profile README
-  Replace SICatProduct with your real GitHub username if it is different.
+  Replace SlCatProduct with your real GitHub username if it is different.
   Put this content inside a repository named exactly like your GitHub username.
 -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=SL+CAT+VPN+DEVELOPER;VPN+Tools+%7C+Bots+%7C+Automation;Secure+Network+Solutions;Welcome+to+SICatProduct" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=SL+CAT+VPN+DEVELOPER;VPN+Tools+%7C+Bots+%7C+Automation;Secure+Network+Solutions;Welcome+to+SlCatProduct" alt="Typing SVG" />
 
   <br />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,45:00D9FF,100:F6C90E&text=SL%20CAT%20VPN%20TEAM&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Developer%20Profile%20%7C%20Bots%20%7C%20VPN%20%7C%20Security&descAlignY=62&animation=fadeIn" alt="Header" />
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=SICatProduct&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/SICatProduct?label=Followers&style=for-the-badge&color=f6c90e&labelColor=101820" alt="Followers" />
+    <img src="https://komarev.com/ghpvc/?username=SlCatProduct&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/SlCatProduct?label=Followers&style=for-the-badge&color=f6c90e&labelColor=101820" alt="Followers" />
     <img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=101820" alt="Status" />
   </p>
 
@@ -26,7 +26,7 @@
 
 ```yaml
 name: SL CAT VPN DEVELOPER
-username: SICatProduct
+username: SlCatProduct
 country: Sri Lanka
 role: VPN Developer / Bot Developer / Automation Builder
 focus:
@@ -98,13 +98,13 @@ motto: "Build fast. Secure smarter. Share with the team."
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SICatProduct&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F6C90E&text_color=E6EDF3" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SICatProduct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SlCatProduct&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=F6C90E&text_color=E6EDF3" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlCatProduct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Top languages" />
 
   <br />
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SICatProduct&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=F6C90E&currStreakLabel=00D9FF" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SlCatProduct&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=F6C90E&currStreakLabel=00D9FF" alt="GitHub streak" />
 
 </div>
 
@@ -114,7 +114,7 @@ motto: "Build fast. Secure smarter. Share with the team."
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=SICatProduct&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SlCatProduct&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
 
 </div>
 
@@ -124,12 +124,12 @@ motto: "Build fast. Secure smarter. Share with the team."
 
 <div align="center">
 
-  <a href="https://github.com/SICatProduct/SL-CAT-VPN-BOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SICatProduct&repo=SL-CAT-VPN-BOT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=F6C90E" alt="SL-CAT-VPN-BOT" />
+  <a href="https://github.com/SlCatProduct/SL-CAT-VPN-BOT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SlCatProduct&repo=SL-CAT-VPN-BOT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=F6C90E" alt="SL-CAT-VPN-BOT" />
   </a>
 
-  <a href="https://github.com/SICatProduct/wa-bot-installer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SICatProduct&repo=wa-bot-installer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=F6C90E" alt="wa-bot-installer" />
+  <a href="https://github.com/SlCatProduct/wa-bot-installer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SlCatProduct&repo=wa-bot-installer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=F6C90E" alt="wa-bot-installer" />
   </a>
 
 </div>
@@ -141,9 +141,9 @@ motto: "Build fast. Secure smarter. Share with the team."
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SICatProduct/SICatProduct/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SICatProduct/SICatProduct/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SICatProduct/SICatProduct/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SlCatProduct/SlCatProduct/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SlCatProduct/SlCatProduct/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SlCatProduct/SlCatProduct/output/github-contribution-grid-snake-dark.svg">
   </picture>
 
 </div>
@@ -171,7 +171,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: SICatProduct
+          github_user_name: SlCatProduct
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -191,7 +191,7 @@ jobs:
 
 <div align="center">
 
-  <a href="https://github.com/SICatProduct">
+  <a href="https://github.com/SlCatProduct">
     <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
   <a href="https://wa.me/94700000000">
